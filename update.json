@@ -1,3 +1,10 @@
 {
-    "isUsableVersion": "1.2.0"
+    "shop": {
+        "tisUsableVersionitle": "1.2.0",
+        "isForceUpdate": false
+    },
+    "shopper": {
+        "tisUsableVersionitle": "1.2.0",
+        "isForceUpdate": false
+    }
 }
